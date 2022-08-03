@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MERNStudentsHiringFrontend/static/css/main.481ff00a.chunk.css",
+    "main.js": "/MERNStudentsHiringFrontend/static/js/main.e2c81b8f.chunk.js",
+    "main.js.map": "/MERNStudentsHiringFrontend/static/js/main.e2c81b8f.chunk.js.map",
+    "runtime-main.js": "/MERNStudentsHiringFrontend/static/js/runtime-main.f6ea5ee3.js",
+    "runtime-main.js.map": "/MERNStudentsHiringFrontend/static/js/runtime-main.f6ea5ee3.js.map",
+    "static/css/2.023f94b0.chunk.css": "/MERNStudentsHiringFrontend/static/css/2.023f94b0.chunk.css",
+    "static/js/2.23e789fe.chunk.js": "/MERNStudentsHiringFrontend/static/js/2.23e789fe.chunk.js",
+    "static/js/2.23e789fe.chunk.js.map": "/MERNStudentsHiringFrontend/static/js/2.23e789fe.chunk.js.map",
+    "static/js/3.a754392b.chunk.js": "/MERNStudentsHiringFrontend/static/js/3.a754392b.chunk.js",
+    "static/js/3.a754392b.chunk.js.map": "/MERNStudentsHiringFrontend/static/js/3.a754392b.chunk.js.map",
+    "index.html": "/MERNStudentsHiringFrontend/index.html",
+    "static/css/2.023f94b0.chunk.css.map": "/MERNStudentsHiringFrontend/static/css/2.023f94b0.chunk.css.map",
+    "static/css/main.481ff00a.chunk.css.map": "/MERNStudentsHiringFrontend/static/css/main.481ff00a.chunk.css.map",
+    "static/js/2.23e789fe.chunk.js.LICENSE.txt": "/MERNStudentsHiringFrontend/static/js/2.23e789fe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MERNStudentsHiringFrontend/static/media/bgimg.d61271ff.jpg",
+    "static/media/image1.05f0ea93.png": "/MERNStudentsHiringFrontend/static/media/image1.05f0ea93.png",
+    "static/media/logo.6ce24c58.svg": "/MERNStudentsHiringFrontend/static/media/logo.6ce24c58.svg",
+    "static/media/slide1.a970964f.jpg": "/MERNStudentsHiringFrontend/static/media/slide1.a970964f.jpg",
+    "static/media/slide2.020a5d96.jpg": "/MERNStudentsHiringFrontend/static/media/slide2.020a5d96.jpg",
+    "static/media/slide3.b1c654fd.jpg": "/MERNStudentsHiringFrontend/static/media/slide3.b1c654fd.jpg",
+    "static/media/slide4.561f16ea.jpg": "/MERNStudentsHiringFrontend/static/media/slide4.561f16ea.jpg",
+    "static/media/slide5.4f4e65f6.jpg": "/MERNStudentsHiringFrontend/static/media/slide5.4f4e65f6.jpg",
+    "static/media/slide6.fb01e3e8.jpg": "/MERNStudentsHiringFrontend/static/media/slide6.fb01e3e8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6ea5ee3.js",
+    "static/css/2.023f94b0.chunk.css",
+    "static/js/2.23e789fe.chunk.js",
+    "static/css/main.481ff00a.chunk.css",
+    "static/js/main.e2c81b8f.chunk.js"
+  ]
+}
